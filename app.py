@@ -14,7 +14,7 @@ st.markdown(
     }
     p, h2, h3 {
         font-size: 20px;
-        color: #333;
+        color: white;
     }
     h1 {
         text-align: center;
