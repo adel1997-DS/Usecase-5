@@ -36,9 +36,9 @@ st.markdown("**اخترت المنطقة؟** خلني أطمنك، مهما كا
 st.image("images/التوظيف حسب الجنس.png")
 
 st.markdown("**هنا نطاق الرواتب للوظائف.**")
-st.image("images/الراتب.png")
+st.image("images/الخبرة.png")
 
 st.markdown("**السوق يطلب الخريجين الجدد أكثر من الخبرات.**")
-st.image("images/الخبرة.png")
+st.image("images/الراتب.png")
 
 st.markdown("**بالتوفيق لك في رحلة البحث، وإن شاء الله عطيناك صورة واضحة عن سوق العمل.**")
