@@ -7,7 +7,7 @@ st.markdown(
     body {
         font-family: 'Arial'; 
         font-size: 20px; 
-        color: black;
+        color: white;
         direction: rtl;
         text-align: right; 
         background-color: #f0f2f6;
