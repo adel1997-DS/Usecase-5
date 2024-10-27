@@ -18,7 +18,7 @@ st.markdown(
     }
     h1 {
         text-align: center;
-        color: black;  /* لون العنوان أسود */
+        color: black;  
     }
     </style>
     """,
